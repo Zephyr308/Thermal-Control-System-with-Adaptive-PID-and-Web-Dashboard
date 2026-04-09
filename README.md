@@ -59,7 +59,7 @@ It features:
 
 ## Folder Structure
 ```
-thermal-control-system/
+src/
 ├── main.py
 ├── controller/
 ├── hardware/
